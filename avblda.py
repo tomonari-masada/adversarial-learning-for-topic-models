@@ -1,9 +1,7 @@
 from random import seed, shuffle
 import numpy as np
-import matplotlib.pyplot as plt
 from io import TextIOWrapper
 import sys
-import time
 import pickle
 from datetime import datetime
 from socket import gethostname
